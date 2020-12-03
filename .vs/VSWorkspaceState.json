@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\backend",
+    "\\backend\\data",
+    "\\backend\\__pycache__",
+    "\\frontend",
+    "\\frontend\\static",
+    "\\frontend\\views"
+  ],
+  "PreviewInSolutionExplorer": false
+}

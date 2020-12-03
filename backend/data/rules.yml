@@ -1,0 +1,6 @@
+rules:
+- rule: repeated greet
+  steps:
+  - intent: greet
+  - slot{"hello_flag":1}
+  - utter_goodbye
