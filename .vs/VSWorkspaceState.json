@@ -5,8 +5,8 @@
     "\\backend\\data",
     "\\backend\\__pycache__",
     "\\frontend",
-    "\\frontend\\static",
     "\\frontend\\views"
   ],
+  "SelectedNode": "\\backend\\domain.yml",
   "PreviewInSolutionExplorer": false
 }
